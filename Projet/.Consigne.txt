@@ -1,0 +1,28 @@
+1. Créer un dossier qui s'appelle Projet.
+
+2. Créer 4 fichiers html :  
+                            -home
+                            -library
+                            -competences
+                            -contact
+
+3. Créer 4 liens sur chaque page qui dirigent vers la bonne page en question.
+
+
+4. Les pages doivent ressembler aux maquettes que vous avez dans le dossier maquettes      
+
+5. Pour les images créer un dossier images et mettre toute les images dedans.
+
+
+6. Bonus : Remplacer les 4 liens par des icônes. Utiliser https://fontawesome.com/ ... 
+
+home = icône home
+
+library = icône book-reader
+
+competences = icône address-card
+
+contact = icône address-book
+
+
+
